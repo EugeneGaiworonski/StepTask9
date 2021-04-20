@@ -1,5 +1,5 @@
 # StepTask9
-\function
+\function\*.*
 
 Задание1:
 Создать проект в котором :
